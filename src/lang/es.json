@@ -1,0 +1,14 @@
+{
+    "successfully_created_project": "Has creado con éxito un proyecto con",
+    "documentation": "Documentación",
+    "official_documentation": "La documentación oficial de Vue le brinda toda la información que necesita para comenzar.",
+    "tooling": "Herramientas",
+    "project_is_served": "Este proyecto es servido y incluido con Vite.La configuración IDE recomendada es VScode + Volar.Si necesita probar sus componentes y páginas web, consulte las pruebas de componentes Cypress y Cypress.",
+    "more_instructions": "Más instrucciones están disponibles en",
+    "ecosystem": "Ecosistema",
+    "get_official_tools_libraries": "Obtenga herramientas y bibliotecas oficiales para su proyecto: Pinch Vue Router Vue Test Utils y Vue Dev Tools.Si necesita más recursos, sugerimos una visita increíble.",
+    "community": "Comunidad",
+    "ask_your_question_vue_land": "¿Quedó atascado?Haga su pregunta en Vue Land, nuestro servidor oficial de Discord o StackOverflow.También debe suscribirse a nuestra lista de correo y seguir la cuenta oficial de Twitter de Vuejs para las últimas noticias en el mundo de Vue.",
+    "support_vue": "Soporte de Vue",
+    "as_independent_project": "Como proyecto independiente, Vue se basa en el respaldo de la comunidad para su sostenibilidad.Puedes ayudarnos convirtiéndonos en patrocinador."
+}
