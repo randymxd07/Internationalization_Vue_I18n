@@ -7,13 +7,13 @@ import { useI18n } from 'vue-i18n';
 
 const { locale } = useI18n();
 
-// Lista de idiomas disponibles
+// AVAILABLE LANGUAGES //
 const languages = ['en', 'es'];
 
-// Idioma seleccionado por defecto
+// SELECTED LANGUAGE BY DEFAULT //
 const selectedLanguage = ref(locale.value);
 
-// Cambiar el idioma seleccionado
+// CHANGE THE SELECTED LANGUAGE //
 const changeLanguage = () => {
   locale.value = selectedLanguage.value;
 };
@@ -53,7 +53,7 @@ const changeLanguage = () => {
 
 <style scoped>
 
-/* Estilos personalizados para el select */
+/* PERSONALIZED STYLES FOR THE SELECT */
 .custom-select {
   margin-top: 20px;
   display: inline-block;
