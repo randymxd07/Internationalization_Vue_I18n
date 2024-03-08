@@ -31,7 +31,7 @@ const changeLanguage = () => {
     <div class="wrapper">
 
       <!-- HELLO WORLD COMPONENT -->
-      <HelloWorld msg="You did it!" />
+      <HelloWorld :msg="$t('HelloWorld.message1')" />
 
       <!-- SELECT -->
       <select class="custom-select" v-model="selectedLanguage" @change="changeLanguage">

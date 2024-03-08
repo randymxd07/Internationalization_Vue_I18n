@@ -1,4 +1,7 @@
 {
+    "HelloWorld": {
+        "message1": "You did it!"
+    },
     "successfully_created_project": "You’ve successfully created a project with",
     "documentation": "Documentation",
     "official_documentation": "Vue’s official documentation provides you with all information you need to get started.",

@@ -1,4 +1,7 @@
 {
+    "HelloWorld": {
+        "message1": "¡Lo hiciste!"
+    },
     "successfully_created_project": "Has creado con éxito un proyecto con",
     "documentation": "Documentación",
     "official_documentation": "La documentación oficial de Vue le brinda toda la información que necesita para comenzar.",

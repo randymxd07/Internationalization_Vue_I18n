@@ -6,7 +6,7 @@ defineProps<{
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ $t(msg) }}</h1>
+    <h1 class="green">{{ msg }}</h1>
     <h3>
       <p>{{ $t('successfully_created_project') }}</p>
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
