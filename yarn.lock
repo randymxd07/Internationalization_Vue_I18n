@@ -324,10 +324,10 @@
   resolved "https://registry.yarnpkg.com/@intlify/shared/-/shared-10.0.4.tgz#3acc71e162ffd77a7de9f486e082cc135ec4cdef"
   integrity sha512-ukFn0I01HsSgr3VYhYcvkTCLS7rGa0gw4A4AMpcy/A9xx/zRJy7PS2BElMXLwUazVFMAr5zuiTk3MQeoeGXaJg==
 
-"@intlify/unplugin-vue-i18n@^6.0.1":
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/@intlify/unplugin-vue-i18n/-/unplugin-vue-i18n-6.0.1.tgz#aca7dbec35867836e27cfe9a2935a2b31cfa54fb"
-  integrity sha512-zDcGLNoaIP15JM4TGwgTHF01Y1Drwcv7pm9C2mHrGAZ3CugqyP2QEG0Vf82QVSNqgEwgB6prcAyDmjIDK1HlRQ==
+"@intlify/unplugin-vue-i18n@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@intlify/unplugin-vue-i18n/-/unplugin-vue-i18n-6.0.2.tgz#df03e348ac0b2fb90ba748961afcb99d66e19c23"
+  integrity sha512-5AuwBfdFtA4OSh31tfGpjhvmh7BVCzClHCgFlVdNM3ojyai3UZY4ViYh35TlE1xeWFyduOtUsG12r70xy24nzg==
   dependencies:
     "@eslint-community/eslint-utils" "^4.4.0"
     "@intlify/bundle-utils" "^10.0.0"
